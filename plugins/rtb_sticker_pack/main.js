@@ -6,11 +6,11 @@ const icon48 = '<g fill="none" fill-rule="evenodd">'
 rtb.initialize({
 	extensionPoints: {
 		toolbar: {
-			title: 'RealtimeBoard Stickers',
+			title: 'Miro Stickers',
 			toolbarSvgIcon: icon24,
 			librarySvgIcon: icon48,
 			onClick: function () {
-				rtb.board.openLibrary('RealtimeBoard Stickers', 'index.html')
+				rtb.board.openLibrary('Miro Stickers', 'index.html')
 			}
 		}
 	}

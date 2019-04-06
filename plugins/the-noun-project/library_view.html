@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <link type="text/css" href="https://realtimeboard.com/app/static/rtb.uikit.css">
+    <link type="text/css" href="https://miro.com/app/static/rtb.uikit.css">
     <script src="https://75874ae9.ngrok.io/rtb.sdk.1.1.js"></script>
     <script src="https://unpkg.com/whatwg-fetch"></script>
     <style>
@@ -233,7 +233,7 @@
 	function loadMoreImages() {
 		var currentQuery = getCurrentQuery()
 		showLoader()
-		fetch('https://realtimeboard.com/thenounproject/?query=' + currentQuery + '&limit=50&offset=' + offset)
+		fetch('https://miro.com/thenounproject/?query=' + currentQuery + '&limit=50&offset=' + offset)
 			.then(function (response) {
 				if (offset < MAX_OFFSET) {
 					if (response.status === 200) {

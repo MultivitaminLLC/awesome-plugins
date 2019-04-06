@@ -6,8 +6,8 @@
 <!--<script src="https://site.ptdev.multivi.ru/app/static/rtb.sdk.js"></script>-->
 <!--<link type="text/css" href="https://site.ptdev.multivi.ru/app/static/rtb.uikit.css">-->
 
-<link type="text/css" href="https://realtimeboard.com/app/static/rtb.uikit.css">
-<script src="https://realtimeboard.com/app/static/rtb.sdk.1.0.js"></script>
+<link type="text/css" href="https://miro.com/app/static/rtb.uikit.css">
+<script src="https://miro.com/app/static/rtb.sdk.1.0.js"></script>
 <style>
     html, body {
         height: 100%;
@@ -65,7 +65,7 @@
 	})
 
 	function search(query) {
-		fetch(`https://realtimeboard.com/thenounproject/?query=${query}&limit=100`)
+		fetch(`https://miro.com/thenounproject/?query=${query}&limit=100`)
 			.then(response => {
 				if (response.status === 200) {
 					return response.json()

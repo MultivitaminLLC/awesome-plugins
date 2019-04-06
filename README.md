@@ -18,7 +18,7 @@ Of course, you can use only pure js, then start from 6 point:
     - In first terminal run _http-server_ in root rep folder: `http-server -p 8081 --cors`
     - In second terminal run _ngrok_ for https: `ngrok http 8081`
     - Get https-url from _ngrok_ and paste it in cookie _basePluginsURL_
-    - Enable feature flag "AWESOME_PLUGINS": `https://realtimeboard.com/app/dashboard/?featuresOn=AWESOME_PLUGINS`
+    - Enable feature flag "AWESOME_PLUGINS": `https://miro.com/app/dashboard/?featuresOn=AWESOME_PLUGINS`
     - Enable your plugin in board -> settings -> awesome-plugin sidebar
     - Good luck! 🏊
     
