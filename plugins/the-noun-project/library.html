@@ -150,7 +150,7 @@
         </svg>
     </div>
 </div>
-</div>
+
 <script>
 
 	var ENTER_KEYCODE = 13
@@ -208,6 +208,7 @@
 	}
 
 	function bootstrap() {
+		hideLoader()
 		rtb.helpers.initScrollableContainerWithDraggableImages(itemsContainer, {draggableImageSelector: '.image-item'})
 	}
 
