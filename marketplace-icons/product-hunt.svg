@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>product hunt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="product-hunt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M45,24 C45,35.59795 35.59795,45 24,45 C12.40205,45 3,35.59795 3,24 C3,12.40205 12.40205,3 24,3 C35.59795,3 45,12.40205 45,24" id="Fill-1-Copy" fill="#DA552F"></path>
+        <path d="M20.2296956,24.5 L20.2296956,17.1799039 L27.02,17.1799039 C28.90879,17.1799039 30.7722371,18.9346894 30.7722371,20.8400478 C30.7722371,22.7454061 28.90879,24.5 27.02,24.5 L20.2296956,24.5 Z M16,13 L16,36 L20.2541775,36 L20.2541775,28.6927934 L27.02,28.6927934 C31.42724,28.6927934 35,25.4959 35,21.05 C35,16.6041 31.42724,13 27.02,13 L16,13 Z" id="Fill-3-Copy" fill="#FFFFFF"></path>
+    </g>
+</svg>
