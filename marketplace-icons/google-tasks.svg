@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>google tasks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.1548904%" y1="22.1541942%" x2="77.8458058%" y2="77.8449356%" id="linearGradient-1">
+            <stop stop-color="#1A237E" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#1A237E" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.7153514%" y1="34.0020307%" x2="77.5659259%" y2="76.3463569%" id="linearGradient-2">
+            <stop stop-color="#1A237E" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#1A237E" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="14.6478409%" cy="14.6459659%" fx="14.6478409%" fy="14.6459659%" r="99.999375%" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="google-tasks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="google-tasks-logo" transform="translate(3.000000, 3.000000)">
+            <circle id="Oval" fill="#4285F4" fill-rule="nonzero" cx="21" cy="21" r="20.9702128"></circle>
+            <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="20.6973617 26.0685957 14.6302979 32.1356596 7.00476596 24.5101277 13.0718298 18.4430638"></polygon>
+            <path d="M4.23812766,27.276766 L15.8384681,15.6764255" id="Path"></path>
+            <path d="M14.3610213,32.4049362 L23.7475745,41.7914894 C34.0301277,40.4451064 41.9702128,31.6495319 41.9702128,21 C41.9702128,20.6973617 41.9630638,20.3947234 41.948766,20.0944681 L34.3089362,12.4546383 L14.3610213,32.4049362 Z" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            <g id="Group" transform="translate(5.689362, 17.157447)" fill="#FBBC04" fill-rule="nonzero">
+                <circle id="Oval" cx="4.34893617" cy="4.31914894" r="4.2893617"></circle>
+            </g>
+            <g id="Group" transform="translate(13.314894, 11.438298)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M20.9964255,5.78229787 C22.3118298,4.46689362 22.3118298,2.33174468 20.9964255,1.01634043 C19.6810213,-0.29906383 17.5458723,-0.29906383 16.2304681,1.01634043 L1.04612766,16.2006809 C-0.269276596,17.5160851 -0.269276596,19.651234 1.04612766,20.9666383 C2.36153191,22.2820426 4.49668085,22.2820426 5.81208511,20.9666383 C5.81208511,20.9666383 20.9964255,5.78229787 20.9964255,5.78229787 Z" id="Path"></path>
+            </g>
+            <circle id="Oval" fill="url(#radialGradient-3)" fill-rule="nonzero" cx="21" cy="21" r="20.9702128"></circle>
+        </g>
+    </g>
+</svg>

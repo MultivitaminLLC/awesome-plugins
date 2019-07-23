@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>google forms</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.00418952617 32 0.00418952617 32 41.8952617 0 41.8952617"></polygon>
+        <polygon id="path-3" points="0 0.00418952617 32 0.00418952617 32 41.8952617 0 41.8952617"></polygon>
+    </defs>
+    <g id="google-forms" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="google-forms-logo" transform="translate(8.000000, 3.000000)">
+            <g id="icons8-google-forms-new-logo">
+                <g id="Group-5">
+                    <g id="Fill-1-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <path d="M3.2,41.8952617 C1.43338667,41.8952617 0,40.4878952 0,38.7531173 L0,3.14214464 C0,1.40747132 1.43338667,0 3.2,0 L20.0034778,0.00418952617 L32,12.0156079 L32,38.7531173 C32,40.4878952 30.56672,41.8952617 28.8,41.8952617 L3.2,41.8952617 Z" id="Fill-1" fill="#673AB7" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Fill-4-Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <path d="M31.9999987,12.005726 L23.4944726,12.005726 C21.7278594,12.005726 20.0005519,10.1098903 20.0005519,8.37511223 L20.0005519,0 L31.9999987,12.005726 Z" id="Fill-4" fill="#B39DDB" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+                <polygon id="Fill-6" fill="#F7F7F7" fill-rule="nonzero" points="14 22.0113097 25.0021257 22.0113097 25.0021257 20 14 20"></polygon>
+                <polygon id="Fill-7" fill="#F7F7F7" fill-rule="nonzero" points="14 27.0113765 25.0021257 27.0113765 25.0021257 25 14 25"></polygon>
+                <polygon id="Fill-8" fill="#F7F7F7" fill-rule="nonzero" points="14 32.0093824 25.0021257 32.0093824 25.0021257 30 14 30"></polygon>
+                <path d="M10,21.5 C10,22.3280999 9.32810001,23 8.5,23 C7.67190001,23 7,22.3280999 7,21.5 C7,20.6719 7.67190001,20 8.5,20 C9.32810001,20 10,20.6719 10,21.5 Z" id="Fill-9" fill="#F7F7F7" fill-rule="nonzero"></path>
+                <path d="M10,26.5 C10,27.3280999 9.32810001,28 8.5,28 C7.67190001,28 7,27.3280999 7,26.5 C7,25.6719001 7.67190001,25 8.5,25 C9.32810001,25 10,25.6719001 10,26.5 Z" id="Fill-10" fill="#F7F7F7" fill-rule="nonzero"></path>
+                <path d="M10,31.5 C10,32.3280999 9.32810001,33 8.5,33 C7.67190001,33 7,32.3280999 7,31.5 C7,30.6719001 7.67190001,30 8.5,30 C9.32810001,30 10,30.6719001 10,31.5 Z" id="Fill-11" fill="#F7F7F7" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

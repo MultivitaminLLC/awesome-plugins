@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0136363636 0.00928 40 0.00928 40 28.768 0.0136363636 28.768"></polygon>
+    </defs>
+    <g id="youtube" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yt_icon_rgb" transform="translate(4.000000, 10.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M39.1640909,4.492216 C38.7040909,2.723912 37.3488636,1.331448 35.6277273,0.858864 C32.5084091,0 20,0 20,0 C20,0 7.49159091,0 4.37227273,0.858864 C2.65136364,1.331448 1.29590909,2.723912 0.835909091,4.492216 C0,7.697064 0,14.384 0,14.384 C0,14.384 0,21.070704 0.835909091,24.276016 C1.29590909,26.044088 2.65136364,27.436552 4.37227273,27.909368 C7.49159091,28.768 20,28.768 20,28.768 C20,28.768 32.5084091,28.768 35.6277273,27.909368 C37.3488636,27.436552 38.7040909,26.044088 39.1640909,24.276016 C40,21.070704 40,14.384 40,14.384 C40,14.384 40,7.697064 39.1640909,4.492216" id="Fill-1" fill="#D9252A" mask="url(#mask-2)"></path>
+            </g>
+            <polyline id="Fill-4" fill="#FFFFFE" points="15.9090909 20.455208 26.3636364 14.384232 15.9090909 8.312792 15.9090909 20.455208"></polyline>
+        </g>
+    </g>
+</svg>

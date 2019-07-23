@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>google sheets</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.00418952617 32 0.00418952617 32 41.8952617 0 41.8952617"></polygon>
+        <polygon id="path-3" points="0 0.00418952617 32 0.00418952617 32 41.8952617 0 41.8952617"></polygon>
+    </defs>
+    <g id="google-sheets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="google-forms-logo-copy" transform="translate(8.000000, 3.000000)">
+            <g id="icons8-google-forms-new-logo">
+                <g id="Group-5">
+                    <g id="Fill-1-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <path d="M3.2,41.8952617 C1.43338667,41.8952617 0,40.4878952 0,38.7531173 L0,3.14214464 C0,1.40747132 1.43338667,0 3.2,0 L20.0034778,0.00418952617 L32,12.0156079 L32,38.7531173 C32,40.4878952 30.56672,41.8952617 28.8,41.8952617 L3.2,41.8952617 Z" id="Fill-1" fill="#00A95E" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Fill-4-Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <path d="M31.9999987,12.005726 L23.4944726,12.005726 C21.7278594,12.005726 20.0005519,10.1098903 20.0005519,8.37511223 L20.0005519,0 L31.9999987,12.005726 Z" id="Fill-4" fill="#79D1AF" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+                <path d="M16.9943451,33 L23.9943451,33 L23.9943451,25.0113765 L16.9943451,25.0113765 L16.9943451,33 Z M14.9943451,33 L14.9943451,25.0113765 L7.99434515,25.0113765 L7.99434515,33 L14.9943451,33 Z M5.99434515,33.0056549 L5.99434515,20.0113097 L5.99434515,18 L25.9943451,18 L25.9943451,20.0113097 L25.9943451,33.0056549 L25.9943451,35.0093824 L5.99434515,35.0093824 L5.99434515,33.0056549 Z M16.9943451,23 L23.9943451,23 L23.9943451,20.0113097 L16.9943451,20.0113097 L16.9943451,23 Z M14.9943451,23 L14.9943451,20.0113097 L7.99434515,20.0113097 L7.99434515,23 L14.9943451,23 Z" id="Combined-Shape" fill="#F7F7F7" fill-rule="nonzero"></path>
+                <polygon id="Fill-8" fill="#F7F7F7" fill-rule="nonzero" points="5.99434515 30.0093824 25.9943451 30.0093824 25.9943451 28 5.99434515 28"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
