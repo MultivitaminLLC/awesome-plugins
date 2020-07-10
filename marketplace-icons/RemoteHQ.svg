@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="494px" height="110px" viewBox="0 0 494 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>RemoteHQ Logo Light Large[screen vector]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.3929476%" y1="91.5037963%" x2="0.72582348%" y2="8.59600445%" id="linearGradient-1">
+            <stop stop-color="#11C7FF" offset="0%"></stop>
+            <stop stop-color="#0062E1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="92.0138889%" x2="0%" y2="7.98611111%" id="linearGradient-2">
+            <stop stop-color="#FF0060" offset="0%"></stop>
+            <stop stop-color="#FF39C3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RemoteHQ-Brand-Colors" transform="translate(-101.000000, -145.000000)">
+            <g id="RemoteHQ-Logo-Light-Large" transform="translate(101.000000, 145.000000)">
+                <text id="Remote-Copy-37" font-family="Rubik-Light, Rubik" font-size="72" font-weight="300" fill="#263337">
+                    <tspan x="142" y="79">Remote</tspan>
+                </text>
+                <text id="HQ-Copy-44" font-family="Rubik-Medium, Rubik" font-size="72" font-weight="400" fill="#263337">
+                    <tspan x="395" y="80">HQ</tspan>
+                </text>
+                <path d="M96,16 L88,16 L88,36 L96,36 L96,64 C96,72.836556 88.836556,80 80,80 L60,80 L60,85 C60,86.6568542 58.6568542,88 57,88 L39,88 C37.3431458,88 36,86.6568542 36,85 L36,80 L16,80 C7.163444,80 0,72.836556 0,64 L0,16 C0,7.163444 7.163444,0 16,0 L80,0 C88.836556,0 96,7.163444 96,16 Z M16,8 C11.581722,8 8,11.581722 8,16 L8,64 C8,68.418278 11.581722,72 16,72 L80,72 C84.418278,72 88,68.418278 88,64 L88,16 C88,11.581722 84.418278,8 80,8 L16,8 Z" id="Combined-Shape-Copy-4" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <path d="M22,86 L30,86 L30,66 L22,66 L22,38 C22,29.163444 29.163444,22 38,22 L102,22 C110.836556,22 118,29.163444 118,38 L118,86 C118,94.836556 110.836556,102 102,102 L82,102 L82,107 C82,108.656854 80.6568542,110 79,110 L61,110 C59.3431458,110 58,108.656854 58,107 L58,102 L38,102 C29.163444,102 22,94.836556 22,86 Z M38,30 C33.581722,30 30,33.581722 30,38 L30,86 C30,90.418278 33.581722,94 38,94 L102,94 C106.418278,94 110,90.418278 110,86 L110,38 C110,33.581722 106.418278,30 102,30 L38,30 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
